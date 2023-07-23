@@ -1,4 +1,4 @@
-[졸업작품.pdf](https://github.com/TUK-Locker/stm32f429zi/files/12138528/default.pdf)
+![ㅍㅅㅌ](https://github.com/TUK-Locker/stm32f429zi/files/12138528/default.pdf)
 
 ## 소개
 한국공학대학교 메카트로닉스공학과 졸작입니다.  
@@ -10,4 +10,4 @@
 - 사용 mcu : NUCLEO144(stm32f429zi)  
 - 개발자 : 정인환
 
-[- ](https://user-images.githubusercontent.com/90883626/224680719-9da6041c-789e-425c-998c-5804a09d7698.mp4)https://user-images.githubusercontent.com/90883626/224680719-9da6041c-789e-425c-998c-5804a09d7698.mp4
+https://user-images.githubusercontent.com/90883626/224680719-9da6041c-789e-425c-998c-5804a09d7698.mp4
